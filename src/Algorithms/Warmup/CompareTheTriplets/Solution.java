@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Solution {
 
-    static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2){
+    private static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2){
         // Complete this function
         int[] a = {a0, a1, a2};
         int[] b = {b0, b1, b2};
